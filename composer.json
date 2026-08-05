@@ -3,13 +3,7 @@
     "description": "traning patterns",
     "autoload": {
         "psr-4": {
-            "Asouza5\\DesignPattern\\": "src/"
+            "App\\": "src/"
         }
-    },
-    "authors": [
-        {
-            "name": "Alexandre Souza"
-        }
-    ],
-    "require": {}
+    }
 }
